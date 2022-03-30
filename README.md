@@ -1,2 +1,4 @@
 # lingo-fr
-The french repo
+Let's learn french!!!!
+
+Good luck
